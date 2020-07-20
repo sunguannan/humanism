@@ -47,7 +47,7 @@
     "grunt-contrib-watch": "1.0.0",
     "grunt-ts": "6.0.0-beta.15",
     "jquery": "3.2.1",
-    "lodash": "4.17.4",
+    "lodash": "4.17.19",
     "moment": "2.18.1",
     "mongodb": "2.2.25",
     "node-uuid": "1.4.8",
